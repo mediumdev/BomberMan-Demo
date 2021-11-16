@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>levels/level01.lvl</file>
+        <file>models/player.sm</file>
+        <file>shaders/textured.fsh</file>
+        <file>shaders/textured.vsh</file>
+        <file>textures/player.png</file>
+        <file>models/briks.sm</file>
+        <file>textures/briks.png</file>
+        <file>textures/concrete.png</file>
+        <file>models/concrete.sm</file>
+        <file>textures/bomb.png</file>
+        <file>models/bomb.sm</file>
+        <file>textures/explosion.png</file>
+        <file>models/explosion.sm</file>
+        <file>textures/zombie.png</file>
+        <file>models/zombie.sm</file>
+        <file>models/floor.sm</file>
+        <file>textures/trackball.png</file>
+        <file>textures/trackball01.png</file>
+        <file>shaders/image.fsh</file>
+        <file>shaders/image.vsh</file>
+    </qresource>
+</RCC>
